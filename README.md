@@ -1,2 +1,2 @@
-# organgan-kodlarim
+# Go-Tashken
 umid laxmaw
