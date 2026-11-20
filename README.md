@@ -1,2 +1,2 @@
-# o-rgangan-ko-dlarim
-umid lotti
+# organgan-kodlarim
+umid laxmaw
